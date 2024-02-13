@@ -1,1 +1,3 @@
-This course covers DevOps best practices, tools, and technologies, preparing you for a career as a DevOps engineer.
+This course covers DevOps best practices, tools, and technologies, preparing you for a career as a DevOps engineer.  
+
+You will master the procedures, protocols, and best practices essential for enhancing workplace productivity.
