@@ -1,0 +1,1 @@
+This course covers DevOps best practices, tools, and technologies, preparing you for a career as a DevOps engineer.
