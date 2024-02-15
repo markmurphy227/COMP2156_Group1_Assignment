@@ -3,5 +3,6 @@ seamless integration between development and operations teams, fostering faster 
 efficient delivery of software products.
 
 
-Embracing DevOps practices equips professionals with the skills needed to automate processes, enhance collaboration, and ensure continuous improvement throughout the software development lifecycle.
+Embracing DevOps practices equips professionals with the skills needed to automate processes,
+enhance collaboration, and ensure continuous improvement throughout the software development lifecycle.
 
