@@ -1,0 +1,3 @@
+COMP 2156 Devops course is particularly designed and planned for those who wants to work with operating systems, building sofwares and websites and bring updates to them.
+Concurrently, the coure is focused on creating and modifying repositoies on Github using Gitbash, Nodejs, Vscode etc.
+The outlines of this course has been structured in such a way that students can get fully skilled and have a firm basics regarding Devops systems.
