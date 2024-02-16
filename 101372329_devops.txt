@@ -2,4 +2,6 @@ COMP2156 is a cutting edge merge of software development technologies.   In the 
 
 This educational method is primarily intended to help us become diversified in our skillset in the IT workplace, applying technical software development methods to what is traditionally a back office position.
 
-However, once the tools have been mastered, this methodology could really be applied anywhere that software needs to be continously tested and updated.
+However, once the tools have been mastered, this methodology could really be applied anywhere that software needs to be continously tested and updated.   
+
+Not all of us will be content writing better scripts for office automation.  Some will take this technology into fields that haven't even been thought of yet !
