@@ -1,0 +1,7 @@
+The DevOps course, COMP 2156, provides students with comprehensive insights into modern
+software development practices, emphasizing automation, collaboration, and continuous
+integration/continuous deployment (CI/CD) pipelines.
+ 
+Through hands-on exercises and real-world case studies, students learn to leverage various 
+DevOps tools and methodologies to streamline software delivery processes and enhance team productivity.
+
