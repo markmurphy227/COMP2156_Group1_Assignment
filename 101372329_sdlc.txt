@@ -1,0 +1,1 @@
+We must first master the individual processes then learn to make them function as components in a pipeline.

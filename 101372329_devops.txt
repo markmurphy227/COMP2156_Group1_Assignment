@@ -1,0 +1,1 @@
+COMP2156 is a cutting edge merge of software development technologies.   In the workplace we will apply this towards creating a seamless production pipeline.
